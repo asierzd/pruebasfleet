@@ -4,5 +4,5 @@ metadata:
   name: fleet-demo-config
   namespace: fleet-demo
 data:
-  version: "7.0"
-  message: "Cambio mientras Fleet estaba pausado. Prueba Vaciar Targets."
+  version: "8.0"
+  message: "Cambio mientras Fleet estaba pausado. Prueba BundleDeployment pause."
