@@ -4,5 +4,5 @@ metadata:
   name: fleet-demo-config
   namespace: fleet-demo
 data:
-  version: "4.0"
-  message: "Cambio mientras Fleet estaba pausado. Prueba para Fleet Agent."
+  version: "5.0"
+  message: "Cambio mientras Fleet estaba pausado. Prueba para Fleet Agent, segundo intento."
