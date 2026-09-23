@@ -1,0 +1,12 @@
+apiVersion: v1
+kind: ConfigMap
+metadata:
+  name: fleet-demo-config
+  namespace: fleet-demo
+data:
+  # Cambia estos valores para probar la reconciliación de Fleet:
+  # 1. Edita version y/o message
+  # 2. Haz commit + push mientras Fleet está pausado
+  # 3. Reanuda Fleet y observa cómo aplica los cambios
+  version: "1.0"
+  message: "Hola desde Fleet"
