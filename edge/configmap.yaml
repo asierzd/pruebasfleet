@@ -5,4 +5,4 @@ metadata:
   namespace: fleet-demo
 data:
   version: "9.0"
-  message: "Cambio mientras Fleet estaba pausado. Prueba Apagar VM."
+  message: "Cambio mientras Fleet estaba pausado. Prueba Corte Internet."
