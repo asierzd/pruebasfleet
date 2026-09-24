@@ -4,5 +4,5 @@ metadata:
   name: fleet-demo-config
   namespace: fleet-demo
 data:
-  version: "9.0"
-  message: "Cambio mientras Fleet estaba pausado. Prueba Corte Internet."
+  version: "10.0"
+  message: "Cambio mientras Fleet estaba pausado. Prueba Corte Internet, segundo intento."
